@@ -1,0 +1,4 @@
+Design and color notes
+
+- JS yellow #F0DB4F
+- JS grey # #323330

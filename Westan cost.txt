@@ -1,0 +1,4 @@
+players = $2,238.50
+software = $1,149.50
+
+total = 3,388 + $16.50 shipping ($3,404.50)
